@@ -14,10 +14,17 @@ This is an example application that combines the powerful FastAPI framework with
 To get started with FastAPI and GraphQL:
 * Install the necessary dependencies: FastAPI, Strawberry, and any other libraries you may need.
 * 
-```pip install fastapi strawberry-graphql sqlmodel``` or ```pip install fastapi strawberry-graphql sqlalchemy```
+```
+pip install fastapi strawberry-graphql sqlmodel
+```
+or 
+```
+pip install fastapi strawberry-graphql sqlalchemy
+```
 
 * Define your data models using Python classes and SQLModel or any other ORM you prefer.
-```from sqlmodel import SQLModel, Field
+```
+from sqlmodel import SQLModel, Field
 
 class User(SQLModel, table=True):
     id: int = Field(primary_key=True)

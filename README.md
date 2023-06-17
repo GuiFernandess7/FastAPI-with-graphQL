@@ -5,13 +5,12 @@ This is an example application that combines the powerful FastAPI framework with
 ## Previews
 
 #### Get book owners and books:
-<img src="previews/video-cut-1.gif" alt="Descrição opcional" width="600px" />
 
+https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/2ce9f678-05e2-4282-ac24-914bf7ad0618
 
 #### Make mutations (Add books and owners):
 
 #### Filter owners by age, name and limit:
-
 
 ## Features
 * **Fast and efficient**: FastAPI is built on top of Starlette, a high-performance asynchronous framework. This allows for high-speed API processing and efficient handling of requests.

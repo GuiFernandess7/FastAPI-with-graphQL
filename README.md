@@ -14,6 +14,8 @@ https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/1a2ab34b-
 
 https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/9756f806-86bf-4573-9912-f93065cd8371
 
+https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/b673e97d-b622-48bf-93fa-908f3a13de95
+
 #### Filter owners by age, name and limit:
 
 ## Features

@@ -5,7 +5,7 @@ This is an example application that combines the powerful FastAPI framework with
 ## Previews
 
 #### Get book owners and books:
-<img src="previews/video-cut-1.gif" alt="Descrição opcional" width="400px" />
+<img src="previews/video-cut-1.gif" alt="Descrição opcional" width="600px" />
 
 
 #### Make mutations (Add books and owners):

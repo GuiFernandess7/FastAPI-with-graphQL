@@ -4,19 +4,19 @@ This is an example application that combines the powerful FastAPI framework with
 
 ## Previews
 
-#### Get book owners and books:
+### Get book owners and books:
 
 https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/2ce9f678-05e2-4282-ac24-914bf7ad0618
 
 https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/1a2ab34b-d98c-437b-8282-95f1d3c49a2a
 
-#### Make mutations (Add books and owners):
+### Make mutations (Add books and owners):
 
 https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/9756f806-86bf-4573-9912-f93065cd8371
 
 https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/b673e97d-b622-48bf-93fa-908f3a13de95
 
-#### Filter owners by age, name and limit:
+### Filter owners by age, name and limit:
 
 https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/2a29f57f-5211-474d-8c90-50a5b9eec3cf
 

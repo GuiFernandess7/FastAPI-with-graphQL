@@ -12,6 +12,8 @@ https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/1a2ab34b-
 
 #### Make mutations (Add books and owners):
 
+https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/9756f806-86bf-4573-9912-f93065cd8371
+
 #### Filter owners by age, name and limit:
 
 ## Features

@@ -18,6 +18,8 @@ https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/b673e97d-
 
 #### Filter owners by age, name and limit:
 
+https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/2a29f57f-5211-474d-8c90-50a5b9eec3cf
+
 ## Features
 * **Fast and efficient**: FastAPI is built on top of Starlette, a high-performance asynchronous framework. This allows for high-speed API processing and efficient handling of requests.
 * **Type safety**: FastAPI leverages Python type hints to provide type checking and validation. This helps catch errors early and makes the code more robust.

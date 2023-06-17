@@ -8,6 +8,8 @@ This is an example application that combines the powerful FastAPI framework with
 
 https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/2ce9f678-05e2-4282-ac24-914bf7ad0618
 
+https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/1a2ab34b-d98c-437b-8282-95f1d3c49a2a
+
 #### Make mutations (Add books and owners):
 
 #### Filter owners by age, name and limit:

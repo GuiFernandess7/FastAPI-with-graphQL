@@ -1,5 +1,7 @@
 # FastAPI with GraphQL
 
+![graphql](https://github.com/GuiFernandess7/FastAPI-with-graphQL/assets/63022500/5b46e29e-f218-4cc1-bb98-22f0b1983302)
+
 This is an example application that combines the powerful FastAPI framework with the flexibility of GraphQL. FastAPI is a fast and easy-to-use web framework for building APIs with Python 3.7+ based on standard Python type hints. GraphQL is a query language and data manipulation language for APIs that gives clients the ability to request exactly the data they need and nothing more.
 
 <hr>
